@@ -1,0 +1,14 @@
+E:\CSharp\POO\07_Construtor\bin\Debug\net8.0\07_Construtor.exe
+E:\CSharp\POO\07_Construtor\bin\Debug\net8.0\07_Construtor.deps.json
+E:\CSharp\POO\07_Construtor\bin\Debug\net8.0\07_Construtor.runtimeconfig.json
+E:\CSharp\POO\07_Construtor\bin\Debug\net8.0\07_Construtor.dll
+E:\CSharp\POO\07_Construtor\bin\Debug\net8.0\07_Construtor.pdb
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\07_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\07_Construtor.AssemblyInfoInputs.cache
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\07_Construtor.AssemblyInfo.cs
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\07_Construtor.csproj.CoreCompileInputs.cache
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\07_Construtor.dll
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\refint\07_Construtor.dll
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\07_Construtor.pdb
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\07_Construtor.genruntimeconfig.cache
+E:\CSharp\POO\07_Construtor\obj\Debug\net8.0\ref\07_Construtor.dll
